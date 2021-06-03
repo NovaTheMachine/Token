@@ -7,7 +7,7 @@ pragma solidity ^0.7.0;
 contract Token {
     // Some string type variables to identify the token.
     // The `public` modifier makes a variable readable from outside the contract.
-    string public name = "My Hardhat Token";
+    string public name = "My Token";
     string public symbol = "MBT";
 
     // The fixed amount of tokens stored in an unsigned integer type variable.
